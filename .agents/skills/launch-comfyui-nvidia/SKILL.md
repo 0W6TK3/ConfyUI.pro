@@ -23,7 +23,7 @@ Default command executed by `run_nvidia_gpu.bat`:
 .\python_embeded\python.exe -s ComfyUI\main.py --windows-standalone-build
 ```
 
-## 2. Launching ComfyUI
+## 2. Launching ComfyUI  
 
 Depending on how the user wants to run ComfyUI:
 
